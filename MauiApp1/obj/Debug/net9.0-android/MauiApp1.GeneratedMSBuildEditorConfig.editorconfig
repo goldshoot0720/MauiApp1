@@ -1,0 +1,121 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp1
+build_property.ProjectDir = C:\Users\golds\Documents\MauiApp1\MauiApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub10Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub10Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub10Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub10Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub11Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub11Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub11Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub11Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub12Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub12Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub12Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub12Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub1Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub1Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub1Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub1Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub2Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub2Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub2Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub2Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub3Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub3Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub3Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub3Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub4Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub4Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub4Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub4Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub5Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub5Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub5Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub5Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub6Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub6Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub6Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub6Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub7Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub7Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub7Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub7Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub8Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub8Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub8Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub8Page.xaml
+
+[C:/Users/golds/Documents/MauiApp1/MauiApp1/Sub9Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Sub9Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Sub9Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Sub9Page.xaml

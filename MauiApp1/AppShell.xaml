@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MauiApp1.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MauiApp1"
+    Shell.FlyoutBehavior="Flyout"
+    Title="MauiApp1">
+
+    <ShellContent
+        Title="首頁"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="歡迎來到訂閱資訊管理"
+        ContentTemplate="{DataTemplate local:Sub1Page}"
+        Route="Sub1Page" />
+    <ShellContent
+        Title="歡迎來到銀行資訊管理"
+        ContentTemplate="{DataTemplate local:Sub2Page}"
+        Route="Sub2Page" />
+    <ShellContent
+        Title="歡迎來到錄取資訊管理"
+        ContentTemplate="{DataTemplate local:Sub3Page}"
+        Route="Sub3Page" />
+    <ShellContent
+        Title="歡迎來到學習資訊管理"
+        ContentTemplate="{DataTemplate local:Sub4Page}"
+        Route="Sub4Page" />
+    <ShellContent
+        Title="歡迎來到門診處方箋資訊管理"
+        ContentTemplate="{DataTemplate local:Sub5Page}"
+        Route="Sub5Page" />
+    <ShellContent
+        Title="歡迎來到消費資訊管理"
+        ContentTemplate="{DataTemplate local:Sub6Page}"
+        Route="Sub6Page" />
+    <ShellContent
+        Title="歡迎來到日期時間資訊管理"
+        ContentTemplate="{DataTemplate local:Sub7Page}"
+        Route="Sub7Page" />
+    <ShellContent
+        Title="歡迎來到金融市場資訊管理"
+        ContentTemplate="{DataTemplate local:Sub8Page}"
+        Route="Sub8Page" />
+    <ShellContent
+        Title="歡迎來到動畫追劇資訊管理"
+        ContentTemplate="{DataTemplate local:Sub9Page}"
+        Route="Sub9Page" />
+    <ShellContent
+        Title="歡迎來到部落格資訊管理"
+        ContentTemplate="{DataTemplate local:Sub10Page}"
+        Route="Sub10Page" />
+    <ShellContent
+        Title="歡迎來到大位天定資訊管理"
+        ContentTemplate="{DataTemplate local:Sub11Page}"
+        Route="Sub11Page" />
+    <ShellContent
+        Title="歡迎來到保留資訊管理"
+        ContentTemplate="{DataTemplate local:Sub12Page}"
+        Route="Sub12Page" />
+
+</Shell>
